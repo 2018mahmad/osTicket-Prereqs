@@ -12,24 +12,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure Virtual Machines
+- Windows 10 Pro
 - Remote Desktop
+- osTicket
 - Internet Information Services (IIS)
+- PHP (FastCGI): The server-side scripting language used to display the HTML webpages of osTicket.
+- MySQL: The database which will contain the data from osTicket.
+- HeidiSQL:The database manager or Graphical User Interface (GUI) we will use to interact with the database.
+- PHP Manager: A feature that will allow us to interact with the scripts through the Management Console.
+- VC Redist: Provides the necessary runtime components for running C++ applications, essential for certain dependencies of PHP and IIS.
+- Rewrite: (URL Rewrite Module for IIS) Allows for the customization of URLs, enabling redirection and URL rewriting for osTicket.
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
-
-<h2>List of Prerequisites</h2>
-
-<ul>
-  <li><strong>mySQL:</strong> The database which will contain the data from osTicket.</li>
-  <li><strong>HeidiSQL:</strong> The database manager or GUI we will use to interact with the database.</li>
-  <li><strong>PHP:</strong> The server-side scripting language used to display the HTML webpages of osTicket.</li>
-  <li><strong>PHP Manager:</strong> A feature that will allow us to interact with the scripts through the Management Console.</li>
-  <li><strong>VC Redist:</strong> Provides the necessary runtime components for running C++ applications, essential for certain dependencies of PHP and IIS.</li>
-  <li><strong>Rewrite:</strong> (URL Rewrite Module for IIS) Allows for the customization of URLs, enabling redirection and URL rewriting for osTicket.</li>
-</ul>
 
 <h1>OVERVIEW</h1>
 
