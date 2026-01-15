@@ -17,12 +17,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Remote Desktop
 - osTicket
 - Internet Information Services (IIS)
-- PHP (FastCGI): The server-side scripting language used to display the HTML webpages of osTicket.
-- MySQL: The database which will contain the data from osTicket.
-- HeidiSQL: The database manager or Graphical User Interface (GUI) we will use to interact with the database.
-- PHP Manager: A feature that will allow us to interact with the scripts through the Management Console.
-- VC Redist: Provides the necessary runtime components for running C++ applications, essential for certain dependencies of PHP and IIS.
-- Rewrite: (URL Rewrite Module for IIS) Allows for the customization of URLs, enabling redirection and URL rewriting for osTicket.
+- **PHP**: The server-side scripting language used to display the HTML webpages of osTicket.
+- **MySQL**: The database which will contain the data from osTicket.
+- **HeidiSQL**: The database manager or Graphical User Interface (GUI) we will use to interact with the database.
+- **PHP Manager**: A feature that will allow us to interact with the scripts through the Management Console.
+- **VC Redist**: Provides the necessary runtime components for running C++ applications, essential for certain dependencies of PHP and IIS.
+- **Rewrite**: (URL Rewrite Module for IIS) Allows for the customization of URLs, enabling redirection and URL rewriting for osTicket.
 
 <h2>Operating Systems Used </h2>
 
