@@ -8,7 +8,7 @@ The following video tutorial outlines the prerequisites and installation of the 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: osTicket Tutorial (Part 1/3) Installation](enter link here)
+- ### [YouTube: osTicket Tutorial (Part 1/3) Installation] - In Progress
 
 ## ⚙️ Key Features
 
